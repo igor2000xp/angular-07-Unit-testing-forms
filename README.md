@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
+## Links
+
+[StackBlitz](https://stackblitz.com/~/github.com/igor2000xp/angular-07-Unit-testing-forms?file=README.md)
+
+[GitHub](https://github.com/igor2000xp/angular-07-Unit-testing-forms)
+
+[Angular course](https://www.udemy.com/course/mastering-angular-interview-questions-e-commerce-project/)
+
+***/Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/StackBlitz/unit-tests/udemy-indian/back-end***
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
